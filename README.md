@@ -21,5 +21,8 @@ Blog Figures - This folder contains a copy of the figures used to create the blo
 best_in_show.csv - This is the file downloaded from Kaggle and contains the raw dataset
 UdacityProject1.ipynb - Jupyter notebook used to perform the analysis and generate figures
 
+Blog Link:
+https://medium.com/@jmalik.87.osu/how-to-determine-if-a-smart-dog-is-for-you-386eeb1448fa
+
 Created by JEM 10/01/2022
 Last Updated by JEM 10/03/2022
