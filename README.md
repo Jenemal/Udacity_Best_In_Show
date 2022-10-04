@@ -24,5 +24,10 @@ UdacityProject1.ipynb - Jupyter notebook used to perform the analysis and genera
 Blog Link:
 https://medium.com/@jmalik.87.osu/how-to-determine-if-a-smart-dog-is-for-you-386eeb1448fa
 
+Acknowledgements:
+Dataset created by Paul Mooney 2020
+https://www.kaggle.com/datasets/paultimothymooney/best-in-show-data-about-dogs?resource=download
+
+
 Created by JEM 10/01/2022
-Last Updated by JEM 10/03/2022
+Last Updated by JEM 10/04/2022
